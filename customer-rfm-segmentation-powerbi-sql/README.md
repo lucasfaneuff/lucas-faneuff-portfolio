@@ -61,7 +61,7 @@ Built a modern, proefessional dashboard including:
 
 Created conditional columns for income segment and suggested action
 
-## 💡 Key Insights
+## 🔍 Key Insights
 - Loyalists and Est. Spenders make up only 28% of customers but generate 55.7% of total revenue
 - At Risk customers generate 15.3% of total revenue
 - Big Spenders Est. Spenders average 1.6k monetary per customer
