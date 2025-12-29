@@ -4,7 +4,7 @@ This project analyzes actual vs budget performance of a coffee company across pr
 
 The final deliverable is a one page excel dashboard designed for executuve review, trend comparisons, product level variance and margin analysis.
 
-<img width="1760" height="654" alt="Screenshot 2025-12-29 110459" src="https://github.com/user-attachments/assets/b95bc556-f2fa-495e-8a27-9b22652733a1" />
+<img width="1683" height="621" alt="Screenshot 2025-12-29 124212" src="https://github.com/user-attachments/assets/b4407adb-1fdb-4bce-937c-c957a99d221e" />
 
 ## 📊 Business Problem
 The company lacks an organizaed, centralized view of financial budget perfoamcne across products and time making it hard for stakeholder to quickly identify trends, drivers and variances. This results in possible misunderstanding of product performance, extra time spent on financial reviews and decision making, and variances in budget vs actual not being recognized or actionable.
